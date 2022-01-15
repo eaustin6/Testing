@@ -1,5 +1,5 @@
 
  
-    web: Dockerfile
+    worker: Dockerfile
 
   web: bash start.sh
